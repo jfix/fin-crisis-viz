@@ -13,7 +13,7 @@ const itemTemplate = (i) => {
   return `
     <div class='eventWrapper'>
       <div style='font-weight: strong;'>${i.title}</div>
-      <a target='_blank' href='https://doi.org/${i.doi}' border='0'><img src='http://assets.oecdcode.org/covers/80/10.1787/${i.doi.split('/')[1]}.jpg'/></a>
+      <a target='_blank' href='https://doi.org/${i.doi}' border='0'><img src='https://assets.oecdcode.org/covers/80/10.1787/${i.doi.split('/')[1]}.jpg'/></a>
       <br/>
       <ul>
       ${i.concepts.map((c) => ('<li>' + c + '</li>')).join('')}
