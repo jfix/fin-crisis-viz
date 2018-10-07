@@ -1,0 +1,31 @@
+.eventWrapper {
+  background-color: white;
+  color: gray;
+  white-space: normal !important;
+  font-size: smaller;
+}
+
+.concept {
+  /* font-family: 'Alfa Slab One', cursive; */
+  font-size: smaller;
+}
+
+.vis-item-content {
+  padding: 0;
+}
+.vis-item {
+  width: 200px;
+  border-color: orange;
+  background-color: none;
+}
+
+.vis-item img {
+  border: 1px solid black;
+}
+.vis-item ul {
+  text-align: left;
+}
+
+.vis-content {
+  top: 0 !important;
+}

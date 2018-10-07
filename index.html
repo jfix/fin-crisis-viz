@@ -1,0 +1,73 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Proof of concept</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="vendor/timeline/vis-timeline-graph2d.min.css" rel="stylesheet"/>
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+    <link href="timeline.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <main role="main" class="col-md-12 ml-sm-auto col-lg-12 px-4">
+          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 class="h1">Proof of concept</h1>
+            <div class="btn-toolbar mb-2 mb-md-0">
+              <div class="btn-group mr-2">
+                <button class="btn btn-sm btn-outline-secondary">Play
+                  <span data-feather="play"></span></button>
+                <button class="btn btn-sm btn-outline-secondary">Pause
+                  <span data-feather="pause"></span></button>
+              </div>
+            </div>
+          </div>
+
+          <div id="timeline" width="100%" height="500px"></div>
+        </div>
+        <div class="row pt-5">
+          <div class="col-sm">
+            <h3>Frequencies</h3>
+            <canvas id="conceptFrequencies" width="50%" height="150px"></canvas>
+          </div>
+          <div class="col-sm">
+            <h3>Countries</h3>
+            <div id="countryOccurrences" style="height: 500px;"></div>
+          </div>
+        </main>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="vendor/jquery/jquery-3.3.1.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/moment/moment.min.js"></script>
+    <script src="vendor/timeline/vis-timeline-graph2d.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="script.js"></script>
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace()
+    </script>
+
+    <!-- Graphs -->
+    <script src="vendor/chartjs/Chart.bundle.min.js"></script>
+    <script>
+    </script>
+  </body>
+</html>

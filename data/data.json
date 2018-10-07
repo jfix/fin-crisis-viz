@@ -1,0 +1,3938 @@
+{
+  "overallConcepts": [
+    {
+      "gross domestic product": 109
+    },
+    {
+      "economic projections": 77
+    },
+    {
+      "inflation": 63
+    },
+    {
+      "prices": 55
+    },
+    {
+      "exports": 52
+    },
+    {
+      "interest rates": 40
+    },
+    {
+      "demand": 39
+    },
+    {
+      "forecasting": 35
+    },
+    {
+      "deficit": 29
+    },
+    {
+      "wages": 26
+    },
+    {
+      "employment": 25
+    },
+    {
+      "imports": 17
+    },
+    {
+      "emerging markets": 15
+    },
+    {
+      "private consumption": 14
+    },
+    {
+      "policy reform": 13
+    },
+    {
+      "economic policy": 12
+    },
+    {
+      "projections": 12
+    },
+    {
+      "indicators": 11
+    },
+    {
+      "exchange rate": 11
+    },
+    {
+      "government": 10
+    },
+    {
+      "labour market": 10
+    },
+    {
+      "current account": 9
+    },
+    {
+      "workers": 8
+    },
+    {
+      "petroleum prices": 7
+    },
+    {
+      "economic indicators": 6
+    },
+    {
+      "debt": 6
+    },
+    {
+      "monetary policy": 6
+    },
+    {
+      "quarterly national accounts": 5
+    },
+    {
+      "borrowing": 5
+    },
+    {
+      "recommendations": 5
+    },
+    {
+      "Latin Americans": 5
+    },
+    {
+      "banks": 4
+    },
+    {
+      "human development": 4
+    },
+    {
+      "uncertainty": 4
+    },
+    {
+      "corporations": 4
+    },
+    {
+      "financial market": 3
+    },
+    {
+      "trade": 3
+    },
+    {
+      "fiscal policy": 3
+    },
+    {
+      "foreign direct investment": 3
+    },
+    {
+      "auctions": 3
+    },
+    {
+      "product market regulation": 3
+    },
+    {
+      "income": 3
+    },
+    {
+      "balance of payments": 3
+    },
+    {
+      "investment": 3
+    },
+    {
+      "liquidity": 3
+    },
+    {
+      "minimum wage": 2
+    },
+    {
+      "unemployment rate": 2
+    },
+    {
+      "taxes": 2
+    },
+    {
+      "dismissal": 2
+    },
+    {
+      "pension funds": 2
+    },
+    {
+      "information and communications technology": 2
+    },
+    {
+      "youth": 2
+    },
+    {
+      "debt management": 2
+    },
+    {
+      "structural policy": 2
+    },
+    {
+      "international trade": 2
+    },
+    {
+      "unemployment": 2
+    },
+    {
+      "structural change": 2
+    },
+    {
+      "general government": 2
+    },
+    {
+      "global value chains": 2
+    },
+    {
+      "contracts": 2
+    },
+    {
+      "household": 2
+    },
+    {
+      "structural reform": 2
+    },
+    {
+      "poverty": 2
+    },
+    {
+      "regional integration": 2
+    },
+    {
+      "collective bargaining": 2
+    },
+    {
+      "commodity prices": 1
+    },
+    {
+      "employees": 1
+    },
+    {
+      "training": 1
+    },
+    {
+      "self-employment": 1
+    },
+    {
+      "migrants": 1
+    },
+    {
+      "migration": 1
+    },
+    {
+      "manpower": 1
+    },
+    {
+      "real gross domestic product": 1
+    },
+    {
+      "crisis": 1
+    },
+    {
+      "harmonised index of consumer prices": 1
+    },
+    {
+      "infrastructure": 1
+    },
+    {
+      "transport infrastructure": 1
+    },
+    {
+      "terms of trade": 1
+    },
+    {
+      "social mobility": 1
+    },
+    {
+      "devaluation": 1
+    },
+    {
+      "investment portfolio": 1
+    },
+    {
+      "innovations": 1
+    },
+    {
+      "middle class": 1
+    },
+    {
+      "unemployment insurance": 1
+    },
+    {
+      "environmental taxes": 1
+    },
+    {
+      "green growth": 1
+    },
+    {
+      "research and development": 1
+    },
+    {
+      "roads": 1
+    },
+    {
+      "competition": 1
+    },
+    {
+      "risk": 1
+    },
+    {
+      "sanitation": 1
+    },
+    {
+      "water": 1
+    },
+    {
+      "youth employment": 1
+    },
+    {
+      "labour share": 1
+    },
+    {
+      "small and medium-sized enterprises": 1
+    },
+    {
+      "gold": 1
+    },
+    {
+      "temporary employment": 1
+    },
+    {
+      "telecommunications": 1
+    },
+    {
+      "hours of work": 1
+    },
+    {
+      "natural resources": 1
+    },
+    {
+      "mental health": 1
+    },
+    {
+      "labour mobility": 1
+    },
+    {
+      "logistics": 1
+    },
+    {
+      "working conditions": 1
+    },
+    {
+      "Accra Agenda for Action": 1
+    },
+    {
+      "surpluses": 1
+    },
+    {
+      "value chains": 1
+    },
+    {
+      "tax revenues": 1
+    },
+    {
+      "education": 1
+    },
+    {
+      "skills": 1
+    },
+    {
+      "students": 1
+    },
+    {
+      "capacity building": 1
+    },
+    {
+      "regional development": 1
+    },
+    {
+      "privatisation": 1
+    },
+    {
+      "insurance companies": 1
+    },
+    {
+      "climate change": 1
+    },
+    {
+      "tourism": 1
+    },
+    {
+      "manpower utilisation": 1
+    },
+    {
+      "household income": 1
+    },
+    {
+      "cities": 1
+    },
+    {
+      "urbanisation": 1
+    },
+    {
+      "shareholders": 1
+    },
+    {
+      "skills use": 1
+    },
+    {
+      "productivity": 1
+    },
+    {
+      "savings ratio": 1
+    },
+    {
+      "public investment": 1
+    },
+    {
+      "energy": 1
+    },
+    {
+      "renewable energy sources": 1
+    },
+    {
+      "income inequality": 1
+    },
+    {
+      "enterprises": 1
+    },
+    {
+      "entrepreneurs": 1
+    },
+    {
+      "entrepreneurship": 1
+    },
+    {
+      "industrialisation": 1
+    },
+    {
+      "cartels": 1
+    },
+    {
+      "globalisation": 1
+    },
+    {
+      "state-owned companies": 1
+    },
+    {
+      "manufacturing": 1
+    },
+    {
+      "budgetary impulse": 1
+    },
+    {
+      "digital economy": 1
+    },
+    {
+      "bankruptcy": 1
+    },
+    {
+      "citizens": 1
+    },
+    {
+      "remittances": 1
+    }
+  ],
+  "overallCountries": [
+    {
+      "United States": 154
+    },
+    {
+      "United Kingdom": 78
+    },
+    {
+      "Japan": 47
+    },
+    {
+      "Germany": 25
+    },
+    {
+      "China, People’s Republic": 19
+    },
+    {
+      "South Africa": 11
+    },
+    {
+      "Viet Nam": 7
+    },
+    {
+      "India": 7
+    },
+    {
+      "Lao People's Democratic Republic": 4
+    },
+    {
+      "Spain": 4
+    },
+    {
+      "Chile": 3
+    },
+    {
+      "Italy": 3
+    },
+    {
+      "France": 3
+    },
+    {
+      "Czech Republic": 3
+    },
+    {
+      "Brazil": 3
+    },
+    {
+      "Singapore": 2
+    },
+    {
+      "Nigeria": 2
+    },
+    {
+      "New Zealand": 2
+    },
+    {
+      "Cape Verde": 2
+    },
+    {
+      "Canada": 2
+    },
+    {
+      "Netherlands": 2
+    },
+    {
+      "Indonesia": 2
+    },
+    {
+      "Malaysia": 2
+    },
+    {
+      "Congo": 2
+    },
+    {
+      "Thailand": 2
+    },
+    {
+      "Botswana": 2
+    },
+    {
+      "Denmark": 2
+    },
+    {
+      "Australia": 2
+    },
+    {
+      "Finland": 2
+    },
+    {
+      "Iceland": 2
+    },
+    {
+      "Norway": 2
+    },
+    {
+      "Costa Rica": 2
+    },
+    {
+      "Greece": 1
+    },
+    {
+      "Philippines": 1
+    },
+    {
+      "Sweden": 1
+    },
+    {
+      "Russian Federation": 1
+    },
+    {
+      "Mauritius": 1
+    },
+    {
+      "Cambodia": 1
+    },
+    {
+      "Korea, Republic of": 1
+    },
+    {
+      "Ghana": 1
+    },
+    {
+      "Tanzania, United Republic of": 1
+    },
+    {
+      "Ireland": 1
+    },
+    {
+      "Mexico": 1
+    },
+    {
+      "Turkey": 1
+    },
+    {
+      "Kenya": 1
+    },
+    {
+      "Liberia": 1
+    }
+  ],
+  "timeSeries": [
+    {
+      "id": "g1g23692",
+      "doi": "10.1787/eco_outlook-v1967-1-en",
+      "title": "OECD Economic Outlook, Volume 1967 Issue 1",
+      "pubDate": "1967-07-15",
+      "concepts": [
+        "demand",
+        "exports",
+        "imports"
+      ],
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23693",
+      "doi": "10.1787/eco_outlook-v1967-2-en",
+      "title": "OECD Economic Outlook, Volume 1967 Issue 2",
+      "pubDate": "1967-12-15",
+      "concepts": [
+        "demand",
+        "devaluation",
+        "exports",
+        "imports",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23694",
+      "doi": "10.1787/eco_outlook-v1968-1-en",
+      "title": "OECD Economic Outlook, Volume 1968 Issue 1",
+      "pubDate": "1968-07-15",
+      "concepts": [
+        "demand",
+        "exports",
+        "imports",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23695",
+      "doi": "10.1787/eco_outlook-v1968-2-en",
+      "title": "OECD Economic Outlook, Volume 1968 Issue 2",
+      "pubDate": "1968-12-15",
+      "concepts": [
+        "balance of payments",
+        "demand",
+        "exports",
+        "imports"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23696",
+      "doi": "10.1787/eco_outlook-v1969-1-en",
+      "title": "OECD Economic Outlook, Volume 1969 Issue 1",
+      "pubDate": "1969-07-15",
+      "concepts": [
+        "balance of payments",
+        "demand",
+        "exports",
+        "gold",
+        "imports",
+        "prices",
+        "surpluses"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23697",
+      "doi": "10.1787/eco_outlook-v1969-2-en",
+      "title": "OECD Economic Outlook, Volume 1969 Issue 2",
+      "pubDate": "1969-12-15",
+      "concepts": [
+        "demand",
+        "exports",
+        "forecasting",
+        "imports",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23698",
+      "doi": "10.1787/eco_outlook-v1970-1-en",
+      "title": "OECD Economic Outlook, Volume 1970 Issue 1",
+      "pubDate": "1970-07-15",
+      "concepts": [
+        "demand",
+        "exports",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g23699",
+      "doi": "10.1787/eco_outlook-v1970-2-en",
+      "title": "OECD Economic Outlook, Volume 1970 Issue 2",
+      "pubDate": "1970-12-15",
+      "concepts": [
+        "balance of payments",
+        "demand",
+        "forecasting",
+        "imports",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369a",
+      "doi": "10.1787/eco_outlook-v1971-1-en",
+      "title": "OECD Economic Outlook, Volume 1971 Issue 1",
+      "pubDate": "1971-07-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "imports",
+        "prices"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369b",
+      "doi": "10.1787/eco_outlook-v1971-2-en",
+      "title": "OECD Economic Outlook, Volume 1971 Issue 2",
+      "pubDate": "1971-12-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369c",
+      "doi": "10.1787/eco_outlook-v1972-1-en",
+      "title": "OECD Economic Outlook, Volume 1972 Issue 1",
+      "pubDate": "1972-07-15",
+      "concepts": [
+        "forecasting",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369d",
+      "doi": "10.1787/eco_outlook-v1972-2-en",
+      "title": "OECD Economic Outlook, Volume 1972 Issue 2",
+      "pubDate": "1972-12-15",
+      "concepts": [
+        "exports",
+        "forecasting",
+        "imports",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369e",
+      "doi": "10.1787/eco_outlook-v1973-1-en",
+      "title": "OECD Economic Outlook, Volume 1973 Issue 1",
+      "pubDate": "1973-07-15",
+      "concepts": [
+        "forecasting",
+        "inflation",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2369f",
+      "doi": "10.1787/eco_outlook-v1973-2-en",
+      "title": "OECD Economic Outlook, Volume 1973 Issue 2",
+      "pubDate": "1973-12-15",
+      "concepts": [
+        "exchange rate",
+        "forecasting",
+        "imports",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a0",
+      "doi": "10.1787/eco_outlook-v1974-1-en",
+      "title": "OECD Economic Outlook, Volume 1974 Issue 1",
+      "pubDate": "1974-07-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "id": "g1g236a1",
+      "doi": "10.1787/eco_outlook-v1974-2-en",
+      "title": "OECD Economic Outlook, Volume 1974 Issue 2",
+      "pubDate": "1974-12-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a2",
+      "doi": "10.1787/eco_outlook-v1975-1-en",
+      "title": "OECD Economic Outlook, Volume 1975 Issue 1",
+      "pubDate": "1975-07-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exports",
+        "forecasting",
+        "imports",
+        "prices"
+      ],
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a3",
+      "doi": "10.1787/eco_outlook-v1975-2-en",
+      "title": "OECD Economic Outlook, Volume 1975 Issue 2",
+      "pubDate": "1975-12-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices",
+        "savings ratio"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a4",
+      "doi": "10.1787/eco_outlook-v1976-1-en",
+      "title": "OECD Economic Outlook, Volume 1976 Issue 1",
+      "pubDate": "1976-07-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "Germany",
+        "Italy",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a5",
+      "doi": "10.1787/eco_outlook-v1976-2-en",
+      "title": "OECD Economic Outlook, Volume 1976 Issue 2",
+      "pubDate": "1976-12-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a6",
+      "doi": "10.1787/eco_outlook-v1977-1-en",
+      "title": "OECD Economic Outlook, Volume 1977 Issue 1",
+      "pubDate": "1977-07-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a7",
+      "doi": "10.1787/eco_outlook-v1977-2-en",
+      "title": "OECD Economic Outlook, Volume 1977 Issue 2",
+      "pubDate": "1977-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a8",
+      "doi": "10.1787/eco_outlook-v1978-1-en",
+      "title": "OECD Economic Outlook, Volume 1978 Issue 1",
+      "pubDate": "1978-07-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices"
+      ],
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g236a9",
+      "doi": "10.1787/eco_outlook-v1978-2-en",
+      "title": "OECD Economic Outlook, Volume 1978 Issue 2",
+      "pubDate": "1978-12-15",
+      "concepts": [
+        "demand",
+        "exchange rate",
+        "forecasting",
+        "prices",
+        "terms of trade",
+        "wages"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2d4",
+      "doi": "10.1787/eco_outlook-v1979-1-en",
+      "title": "OECD Economic Outlook, Volume 1979 Issue 1",
+      "pubDate": "1979-04-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "petroleum prices",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2d5",
+      "doi": "10.1787/eco_outlook-v1979-2-en",
+      "title": "OECD Economic Outlook, Volume 1979 Issue 2",
+      "pubDate": "1979-12-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "inflation",
+        "petroleum prices",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2d7",
+      "doi": "10.1787/eco_outlook-v1980-1-en",
+      "title": "OECD Economic Outlook, Volume 1980 Issue 1",
+      "pubDate": "1980-07-15",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "petroleum prices",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2d9",
+      "doi": "10.1787/eco_outlook-v1980-2-en",
+      "title": "OECD Economic Outlook, Volume 1980 Issue 2",
+      "pubDate": "1980-12-14",
+      "concepts": [
+        "demand",
+        "forecasting",
+        "prices",
+        "private consumption",
+        "wages"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2db",
+      "doi": "10.1787/eco_outlook-v1981-1-en",
+      "title": "OECD Economic Outlook, Volume 1981 Issue 1",
+      "pubDate": "1981-07-15",
+      "concepts": [
+        "forecasting",
+        "gross domestic product",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2dd",
+      "doi": "10.1787/eco_outlook-v1981-2-en",
+      "title": "OECD Economic Outlook, Volume 1981 Issue 2",
+      "pubDate": "1981-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exchange rate",
+        "gross domestic product",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2df",
+      "doi": "10.1787/eco_outlook-v1982-1-en",
+      "title": "OECD Economic Outlook, Volume 1982 Issue 1",
+      "pubDate": "1982-07-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exchange rate",
+        "forecasting",
+        "gross domestic product",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2e1",
+      "doi": "10.1787/eco_outlook-v1982-2-en",
+      "title": "OECD Economic Outlook, Volume 1982 Issue 2",
+      "pubDate": "1982-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exchange rate",
+        "exports",
+        "gross domestic product",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2e3",
+      "doi": "10.1787/eco_outlook-v1983-1-en",
+      "title": "OECD Economic Outlook, Volume 1983 Issue 1",
+      "pubDate": "1983-07-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2e5",
+      "doi": "10.1787/eco_outlook-v1983-2-en",
+      "title": "OECD Economic Outlook, Volume 1983 Issue 2",
+      "pubDate": "1983-12-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "forecasting",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2e7",
+      "doi": "10.1787/eco_outlook-v1984-1-en",
+      "title": "OECD Economic Outlook, Volume 1984 Issue 1",
+      "pubDate": "1984-07-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "forecasting",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2e9",
+      "doi": "10.1787/eco_outlook-v1984-2-en",
+      "title": "OECD Economic Outlook, Volume 1984 Issue 2",
+      "pubDate": "1984-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exchange rate",
+        "exports",
+        "forecasting",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2eb",
+      "doi": "10.1787/eco_outlook-v1985-1-en",
+      "title": "OECD Economic Outlook, Volume 1985 Issue 1",
+      "pubDate": "1985-06-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exports",
+        "forecasting",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2ed",
+      "doi": "10.1787/eco_outlook-v1985-2-en",
+      "title": "OECD Economic Outlook, Volume 1985 Issue 2",
+      "pubDate": "1985-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exports",
+        "inflation",
+        "interest rates",
+        "prices",
+        "wages"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2ef",
+      "doi": "10.1787/eco_outlook-v1986-1-en",
+      "title": "OECD Economic Outlook, Volume 1986 Issue 1",
+      "pubDate": "1986-05-15",
+      "concepts": [
+        "deficit",
+        "exchange rate",
+        "exports",
+        "inflation",
+        "interest rates",
+        "petroleum prices",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2f1",
+      "doi": "10.1787/eco_outlook-v1986-2-en",
+      "title": "OECD Economic Outlook, Volume 1986 Issue 2",
+      "pubDate": "1986-12-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2f3",
+      "doi": "10.1787/eco_outlook-v1987-1-en",
+      "title": "OECD Economic Outlook, Volume 1987 Issue 1",
+      "pubDate": "1987-06-15",
+      "concepts": [
+        "deficit",
+        "exchange rate",
+        "exports",
+        "gross domestic product",
+        "imports",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2f5",
+      "doi": "10.1787/eco_outlook-v1987-2-en",
+      "title": "OECD Economic Outlook, Volume 1987 Issue 2",
+      "pubDate": "1987-12-15",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exchange rate",
+        "exports",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption",
+        "projections"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2f7",
+      "doi": "10.1787/eco_outlook-v1988-1-en",
+      "title": "OECD Economic Outlook, Volume 1988 Issue 1",
+      "pubDate": "1988-06-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "interest rates",
+        "manpower",
+        "prices",
+        "projections"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2f9",
+      "doi": "10.1787/eco_outlook-v1988-2-en",
+      "title": "OECD Economic Outlook, Volume 1988 Issue 2",
+      "pubDate": "1988-12-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption",
+        "projections"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2fb",
+      "doi": "10.1787/eco_outlook-v1989-1-en",
+      "title": "OECD Economic Outlook, Volume 1989 Issue 1",
+      "pubDate": "1989-06-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2fd",
+      "doi": "10.1787/eco_outlook-v1989-2-en",
+      "title": "OECD Economic Outlook, Volume 1989 Issue 2",
+      "pubDate": "1989-12-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e2ff",
+      "doi": "10.1787/eco_outlook-v1990-1-en",
+      "title": "OECD Economic Outlook, Volume 1990 Issue 1",
+      "pubDate": "1990-06-15",
+      "concepts": [
+        "exports",
+        "gross domestic product",
+        "imports",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e301",
+      "doi": "10.1787/eco_outlook-v1990-2-en",
+      "title": "OECD Economic Outlook, Volume 1990 Issue 2",
+      "pubDate": "1990-12-15",
+      "concepts": [
+        "exports",
+        "gross domestic product",
+        "imports",
+        "inflation",
+        "prices"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e303",
+      "doi": "10.1787/eco_outlook-v1991-1-de",
+      "title": "OECD Economic Outlook, Volume 1991 Issue 1",
+      "pubDate": "1991-07-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "imports",
+        "inflation",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Germany",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e305",
+      "doi": "10.1787/eco_outlook-v1991-2-de",
+      "title": "OECD Economic Outlook, Volume 1991 Issue 2",
+      "pubDate": "1991-12-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "imports",
+        "inflation",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Germany",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e306",
+      "doi": "10.1787/eco_outlook-v1992-1-de",
+      "title": "OECD Economic Outlook, Volume 1992 Issue 1",
+      "pubDate": "1992-06-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "imports",
+        "inflation",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Germany",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e308",
+      "doi": "10.1787/eco_outlook-v1992-2-de",
+      "title": "OECD Economic Outlook, Volume 1992 Issue 2",
+      "pubDate": "1992-12-21",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices",
+        "private consumption"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e30a",
+      "doi": "10.1787/eco_outlook-v1993-1-de",
+      "title": "OECD Economic Outlook, Volume 1993 Issue 1",
+      "pubDate": "1993-06-15",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e30c",
+      "doi": "10.1787/eco_outlook-v1993-2-de",
+      "title": "OECD Economic Outlook, Volume 1993 Issue 2",
+      "pubDate": "1993-06-17",
+      "concepts": [
+        "deficit",
+        "demand",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e30e",
+      "doi": "10.1787/eco_outlook-v1994-1-de",
+      "title": "OECD Economic Outlook, Volume 1994 Issue 1",
+      "pubDate": "1994-06-14",
+      "concepts": [
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e310",
+      "doi": "10.1787/eco_outlook-v1994-2-de",
+      "title": "OECD Economic Outlook, Volume 1994 Issue 2",
+      "pubDate": "1994-12-02",
+      "concepts": [
+        "demand",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e312",
+      "doi": "10.1787/eco_outlook-v1995-1-de",
+      "title": "OECD Economic Outlook, Volume 1995 Issue 1",
+      "pubDate": "1995-06-20",
+      "concepts": [
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Germany",
+        "Italy",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e314",
+      "doi": "10.1787/eco_outlook-v1995-2-de",
+      "title": "OECD Economic Outlook, Volume 1995 Issue 2",
+      "pubDate": "1995-12-05",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e316",
+      "doi": "10.1787/eco_outlook-v1996-1-de",
+      "title": "OECD Economic Outlook, Volume 1996 Issue 1",
+      "pubDate": "1996-06-05",
+      "concepts": [
+        "deficit",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh212e",
+      "doi": "10.1787/empl_outlook-1996-en",
+      "title": "OECD Employment Outlook 1996",
+      "pubDate": "1996-07-09",
+      "concepts": [
+        "employment",
+        "wages"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2e318",
+      "doi": "10.1787/eco_outlook-v1996-2-de",
+      "title": "OECD Economic Outlook, Volume 1996 Issue 2",
+      "pubDate": "1996-12-04",
+      "concepts": [
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg774",
+      "doi": "10.1787/g2ghg779-de",
+      "title": "OECD Economic Outlook, Volume 1997 Issue 1",
+      "pubDate": "1997-06-09",
+      "concepts": [
+        "current account",
+        "demand",
+        "exchange rate",
+        "gross domestic product",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Germany",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh2143",
+      "doi": "10.1787/empl_outlook-1997-en",
+      "title": "OECD Employment Outlook 1997",
+      "pubDate": "1997-07-09",
+      "concepts": [
+        "employment",
+        "wages",
+        "workers"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg77a",
+      "doi": "10.1787/g2ghg77f-de",
+      "title": "OECD Economic Outlook, Volume 1997 Issue 2",
+      "pubDate": "1997-12-09",
+      "concepts": [
+        "current account",
+        "gross domestic product",
+        "interest rates",
+        "projections"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg782",
+      "doi": "10.1787/g2g2e7d6-de",
+      "title": "OECD Economic Outlook, Volume 1998 Issue 1",
+      "pubDate": "1998-05-25",
+      "concepts": [
+        "current account",
+        "exchange rate",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh2155",
+      "doi": "10.1787/g2gh2159-de",
+      "title": "OECD Employment Outlook 1998",
+      "pubDate": "1998-06-22",
+      "concepts": [
+        "employment",
+        "minimum wage",
+        "wages"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg788",
+      "doi": "10.1787/g2ghg78d-de",
+      "title": "OECD Economic Outlook, Volume 1998 Issue 2",
+      "pubDate": "1998-12-14",
+      "concepts": [
+        "current account",
+        "financial market",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg790",
+      "doi": "10.1787/eco_outlook-v1999-1-de",
+      "title": "OECD Economic Outlook, Volume 1999 Issue 1",
+      "pubDate": "1999-06-16",
+      "concepts": [
+        "current account",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh2179",
+      "doi": "10.1787/empl_outlook-1999-de",
+      "title": "OECD Employment Outlook 1999",
+      "pubDate": "1999-06-17",
+      "concepts": [
+        "dismissal",
+        "employees",
+        "employment",
+        "training",
+        "workers"
+      ],
+      "countries": [
+        "France",
+        "Germany",
+        "Netherlands",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg796",
+      "doi": "10.1787/eco_outlook-v1999-2-de",
+      "title": "OECD Economic Outlook, Volume 1999 Issue 2",
+      "pubDate": "1999-12-13",
+      "concepts": [
+        "current account",
+        "gross domestic product",
+        "inflation",
+        "interest rates"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh2198",
+      "doi": "10.1787/empl_outlook-2000-de",
+      "title": "OECD Employment Outlook 2000",
+      "pubDate": "2000-06-20",
+      "concepts": [
+        "employment",
+        "self-employment",
+        "unemployment rate"
+      ],
+      "countries": [
+        "Czech Republic",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg79f",
+      "doi": "10.1787/eco_outlook-v2000-1-de",
+      "title": "OECD Economic Outlook, Volume 2000 Issue 1",
+      "pubDate": "2000-06-22",
+      "concepts": [
+        "demand",
+        "gross domestic product",
+        "inflation",
+        "prices"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg7a6",
+      "doi": "10.1787/eco_outlook-v2000-2-de",
+      "title": "OECD Economic Outlook, Volume 2000 Issue 2",
+      "pubDate": "2000-12-13",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation",
+        "petroleum prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg821",
+      "doi": "10.1787/eco_outlook-v2001-1-de",
+      "title": "OECD Economic Outlook, Volume 2001 Issue 1",
+      "pubDate": "2001-06-13",
+      "concepts": [
+        "demand",
+        "economic projections",
+        "exports",
+        "gross domestic product",
+        "inflation",
+        "projections"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh21c8",
+      "doi": "10.1787/empl_outlook-2001-en",
+      "title": "OECD Employment Outlook 2001",
+      "pubDate": "2001-07-03",
+      "concepts": [
+        "employment",
+        "poverty"
+      ],
+      "countries": [
+        "Canada",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg828",
+      "doi": "10.1787/eco_outlook-v2001-2-de",
+      "title": "OECD Economic Outlook, Volume 2001 Issue 2",
+      "pubDate": "2001-12-19",
+      "concepts": [
+        "current account",
+        "demand",
+        "economic projections",
+        "exports",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh13c2",
+      "doi": "10.1787/aeo-2002-en",
+      "title": "African Economic Outlook 2002",
+      "pubDate": "2002-02-14",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1ghg831",
+      "doi": "10.1787/eco_outlook-v2002-1-de",
+      "title": "OECD Economic Outlook, Volume 2002 Issue 1",
+      "pubDate": "2002-06-14",
+      "concepts": [
+        "current account",
+        "economic projections",
+        "exports",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh29ad",
+      "doi": "10.1787/empl_outlook-2002-de",
+      "title": "OECD Employment Outlook 2002",
+      "pubDate": "2002-07-10",
+      "concepts": [
+        "employment",
+        "labour market",
+        "temporary employment",
+        "unemployment",
+        "wages"
+      ],
+      "countries": [
+        "Denmark",
+        "Greece",
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghg838",
+      "doi": "10.1787/eco_outlook-v2002-2-de",
+      "title": "OECD Economic Outlook, Volume 2002 Issue 2",
+      "pubDate": "2002-11-21",
+      "concepts": [
+        "demand",
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh327f",
+      "doi": "10.1787/aeo-2003-en",
+      "title": "African Economic Outlook 2003",
+      "pubDate": "2003-03-12",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "government",
+        "gross domestic product",
+        "privatisation"
+      ],
+      "countries": [
+        "Botswana",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1gh31be",
+      "doi": "10.1787/eco_outlook-v2003-1-de",
+      "title": "OECD Economic Outlook, Volume 2003 Issue 1",
+      "pubDate": "2003-06-13",
+      "concepts": [
+        "economic projections",
+        "foreign direct investment",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh3367",
+      "doi": "10.1787/empl_outlook-2003-de",
+      "title": "OECD Employment Outlook 2003",
+      "pubDate": "2003-09-03",
+      "concepts": [
+        "employment"
+      ],
+      "countries": [
+        "Denmark",
+        "Netherlands",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh3201",
+      "doi": "10.1787/eco_outlook-v2003-2-de",
+      "title": "OECD Economic Outlook, Volume 2003 Issue 2",
+      "pubDate": "2003-11-26",
+      "concepts": [
+        "economic projections",
+        "fiscal policy",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh4003",
+      "doi": "10.1787/eco_outlook-v2004-1-de",
+      "title": "OECD Economic Outlook, Volume 2004 Issue 1",
+      "pubDate": "2004-05-07",
+      "concepts": [
+        "current account",
+        "economic projections",
+        "gross domestic product",
+        "inflation",
+        "prices"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh453c",
+      "doi": "10.1787/aeo-2004-en",
+      "title": "African Economic Outlook 2004",
+      "pubDate": "2004-07-01",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Ghana",
+        "Kenya",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1gh4498",
+      "doi": "10.1787/empl_outlook-2004-en",
+      "title": "OECD Employment Outlook 2004",
+      "pubDate": "2004-07-07",
+      "concepts": [
+        "employment",
+        "wages"
+      ],
+      "countries": [
+        "Italy",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh4004",
+      "doi": "10.1787/eco_outlook-v2004-2-de",
+      "title": "OECD Economic Outlook, Volume 2004 Issue 2",
+      "pubDate": "2005-01-12",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation",
+        "petroleum prices"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh4cf7",
+      "doi": "10.1787/growth-2005-en",
+      "title": "Economic Policy Reforms 2005",
+      "pubDate": "2005-03-01",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "indicators",
+        "policy reform",
+        "product market regulation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh58db",
+      "doi": "10.1787/aeo-2005-en",
+      "title": "African Economic Outlook 2005",
+      "pubDate": "2005-05-18",
+      "concepts": [
+        "corporations",
+        "economic projections",
+        "exports",
+        "government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Botswana"
+      ]
+    },
+    {
+      "id": "g1gh4973",
+      "doi": "10.1787/eco_outlook-v2005-1-de",
+      "title": "OECD Economic Outlook, Volume 2005 Issue 1",
+      "pubDate": "2005-05-24",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh5a76",
+      "doi": "10.1787/empl_outlook-2005-en",
+      "title": "OECD Employment Outlook 2005",
+      "pubDate": "2005-07-06",
+      "concepts": [
+        "employment",
+        "wages"
+      ],
+      "countries": [
+        "New Zealand",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh4975",
+      "doi": "10.1787/eco_outlook-v2005-2-de",
+      "title": "OECD Economic Outlook, Volume 2005 Issue 2",
+      "pubDate": "2006-01-19",
+      "concepts": [],
+      "countries": []
+    },
+    {
+      "id": "g1gh6085",
+      "doi": "10.1787/growth-2006-en",
+      "title": "Economic Policy Reforms 2006",
+      "pubDate": "2006-02-07",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "innovations",
+        "policy reform",
+        "recommendations",
+        "research and development"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh69c6",
+      "doi": "10.1787/aeo-2006-en",
+      "title": "African Economic Outlook 2006",
+      "pubDate": "2006-05-18",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "government",
+        "gross domestic product",
+        "roads"
+      ],
+      "countries": [
+        "Congo",
+        "Mauritius",
+        "Nigeria",
+        "South Africa",
+        "Tanzania, United Republic of"
+      ]
+    },
+    {
+      "id": "g1gh6a81",
+      "doi": "10.1787/empl_outlook-2006-de",
+      "title": "OECD Employment Outlook 2006",
+      "pubDate": "2006-06-16",
+      "concepts": [
+        "employment",
+        "labour market",
+        "unemployment",
+        "unemployment rate"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh6844",
+      "doi": "10.1787/eco_outlook-v2006-1-de",
+      "title": "OECD Economic Outlook, Volume 2006 Issue 1",
+      "pubDate": "2006-07-03",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh6847",
+      "doi": "10.1787/eco_outlook-v2006-2-de",
+      "title": "OECD Economic Outlook, Volume 2006 Issue 2",
+      "pubDate": "2007-01-17",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh761f",
+      "doi": "10.1787/growth-2007-en",
+      "title": "Economic Policy Reforms 2007",
+      "pubDate": "2007-02-13",
+      "concepts": [
+        "competition",
+        "economic policy",
+        "gross domestic product",
+        "indicators",
+        "policy reform"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh7f82",
+      "doi": "10.1787/aeo-2007-en",
+      "title": "African Economic Outlook 2007",
+      "pubDate": "2007-05-18",
+      "concepts": [
+        "economic projections",
+        "government",
+        "gross domestic product",
+        "sanitation",
+        "water"
+      ],
+      "countries": [
+        "Nigeria",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1gh7f71",
+      "doi": "10.1787/empl_outlook-2007-en",
+      "title": "OECD Employment Outlook 2007",
+      "pubDate": "2007-06-18",
+      "concepts": [
+        "employment",
+        "wages"
+      ],
+      "countries": [
+        "Brazil",
+        "China, People’s Republic",
+        "India",
+        "Russian Federation",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh7623",
+      "doi": "10.1787/eco_outlook-v2007-1-de",
+      "title": "OECD Economic Outlook, Volume 2007 Issue 1",
+      "pubDate": "2007-06-28",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh8575",
+      "doi": "10.1787/leo-2008-en",
+      "title": "Latin American Economic Outlook 2008",
+      "pubDate": "2007-11-07",
+      "concepts": [
+        "Latin Americans",
+        "economic projections",
+        "exports",
+        "pension funds",
+        "telecommunications"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1gh7627",
+      "doi": "10.1787/eco_outlook-v2007-2-de",
+      "title": "OECD Economic Outlook, Volume 2007 Issue 2",
+      "pubDate": "2007-12-06",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh8922",
+      "doi": "10.1787/growth-2008-en",
+      "title": "Economic Policy Reforms 2008",
+      "pubDate": "2008-03-04",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "hours of work",
+        "policy reform",
+        "recommendations"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh92d0",
+      "doi": "10.1787/aeo-2008-en",
+      "title": "African Economic Outlook 2008",
+      "pubDate": "2008-05-19",
+      "concepts": [
+        "economic projections",
+        "government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Cape Verde",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1gh8926",
+      "doi": "10.1787/eco_outlook-v2008-1-de",
+      "title": "OECD Economic Outlook, Volume 2008 Issue 1",
+      "pubDate": "2008-06-03",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh9259",
+      "doi": "10.1787/empl_outlook-2008-en",
+      "title": "OECD Employment Outlook 2008",
+      "pubDate": "2008-07-18",
+      "concepts": [
+        "employment",
+        "mental health",
+        "wages",
+        "working conditions"
+      ],
+      "countries": [
+        "Czech Republic",
+        "Korea, Republic of",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh98db",
+      "doi": "10.1787/leo-2009-en",
+      "title": "Latin American Economic Outlook 2009",
+      "pubDate": "2008-10-28",
+      "concepts": [
+        "Latin Americans",
+        "fiscal policy",
+        "income",
+        "tax revenues",
+        "taxes"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1gh892d",
+      "doi": "10.1787/eco_outlook-v2008-2-de",
+      "title": "OECD Economic Outlook, Volume 2008 Issue 2",
+      "pubDate": "2008-11-25",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh9918",
+      "doi": "10.1787/growth-2009-en",
+      "title": "Economic Policy Reforms 2009",
+      "pubDate": "2009-03-03",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "indicators",
+        "manpower utilisation",
+        "policy reform",
+        "product market regulation",
+        "productivity"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghad01",
+      "doi": "10.1787/eco_outlook-v2008-sup2-de",
+      "title": "OECD Economic Outlook, Interim Report March 2009",
+      "pubDate": "2009-03-31",
+      "concepts": [
+        "banks",
+        "budgetary impulse",
+        "economic projections",
+        "gross domestic product",
+        "interest rates"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghad00",
+      "doi": "10.1787/eco_outlook-v2008-sup1-en",
+      "title": "OECD Economic Outlook, What is the Economic Outlook for OECD Countries? An Interim Assessment September 2008",
+      "pubDate": "2009-05-29",
+      "concepts": [
+        "commodity prices",
+        "economic indicators",
+        "economic projections",
+        "indicators",
+        "inflation",
+        "prices",
+        "quarterly national accounts"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh9a85",
+      "doi": "10.1787/eco_outlook-v2009-1-de",
+      "title": "OECD Economic Outlook, Volume 2009 Issue 1",
+      "pubDate": "2009-06-17",
+      "concepts": [
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghad21",
+      "doi": "10.1787/g2ghad21-en",
+      "title": "African Economic Outlook 2009",
+      "pubDate": "2009-07-01",
+      "concepts": [
+        "economic projections",
+        "information and communications technology"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1ghc6dc",
+      "doi": "10.1787/aeo-2009-en",
+      "title": "African Economic Outlook 2009",
+      "pubDate": "2009-07-13",
+      "concepts": [
+        "economic projections",
+        "government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Cape Verde",
+        "Congo",
+        "Liberia",
+        "South Africa"
+      ]
+    },
+    {
+      "id": "g1ghbb6e",
+      "doi": "10.1787/eco_outlook-v2009-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2009",
+      "pubDate": "2009-09-09",
+      "concepts": [
+        "economic indicators",
+        "gross domestic product",
+        "projections"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghb2df",
+      "doi": "10.1787/empl_outlook-2009-en",
+      "title": "OECD Employment Outlook 2009",
+      "pubDate": "2009-09-16",
+      "concepts": [
+        "employment",
+        "labour market",
+        "poverty",
+        "workers"
+      ],
+      "countries": [
+        "Germany",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghbbcc",
+      "doi": "10.1787/leo-2010-en",
+      "title": "Latin American Economic Outlook 2010",
+      "pubDate": "2009-11-30",
+      "concepts": [
+        "migrants",
+        "migration",
+        "remittances"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1gh9a89",
+      "doi": "10.1787/eco_outlook-v2009-2-de",
+      "title": "OECD Economic Outlook, Volume 2009 Issue 2",
+      "pubDate": "2010-01-05",
+      "concepts": [
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghc197",
+      "doi": "10.1787/growth-2010-en",
+      "title": "Economic Policy Reforms 2010",
+      "pubDate": "2010-03-10",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "policy reform",
+        "recommendations"
+      ],
+      "countries": [
+        "South Africa",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghcd73",
+      "doi": "10.1787/eco_outlook-v2009-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report April 2010",
+      "pubDate": "2010-04-08",
+      "concepts": [
+        "economic indicators",
+        "economic projections",
+        "gross domestic product",
+        "indicators",
+        "inflation",
+        "interest rates",
+        "quarterly national accounts"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1ghbb3a",
+      "doi": "10.1787/eco_outlook-v2010-1-de",
+      "title": "OECD Economic Outlook, Volume 2010 Issue 1",
+      "pubDate": "2010-05-26",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g10147",
+      "doi": "10.1787/aeo-2010-en",
+      "title": "African Economic Outlook 2010",
+      "pubDate": "2010-06-09",
+      "concepts": [
+        "gross domestic product",
+        "real gross domestic product",
+        "taxes"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1ghce03",
+      "doi": "10.1787/empl_outlook-2010-en",
+      "title": "OECD Employment Outlook 2010",
+      "pubDate": "2010-07-07",
+      "concepts": [
+        "crisis",
+        "employment",
+        "workers"
+      ],
+      "countries": [
+        "Brazil",
+        "Chile",
+        "Mexico",
+        "South Africa",
+        "Turkey",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g11e42",
+      "doi": "10.1787/eco_outlook-v2010-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2010",
+      "pubDate": "2010-10-14",
+      "concepts": [
+        "economic indicators",
+        "economic projections",
+        "gross domestic product",
+        "harmonised index of consumer prices",
+        "inflation",
+        "quarterly national accounts"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g11e33",
+      "doi": "10.1787/9789264096004-en",
+      "title": "Southeast Asian Economic Outlook 2010",
+      "pubDate": "2010-11-26",
+      "concepts": [
+        "economic projections",
+        "infrastructure",
+        "transport infrastructure"
+      ],
+      "countries": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Singapore",
+        "Thailand",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g11876",
+      "doi": "10.1787/leo-2011-en",
+      "title": "Latin American Economic Outlook 2011",
+      "pubDate": "2010-12-03",
+      "concepts": [
+        "Latin Americans",
+        "economic projections",
+        "household",
+        "income",
+        "social mobility"
+      ],
+      "countries": [
+        "Chile"
+      ]
+    },
+    {
+      "id": "g1ghbb4a",
+      "doi": "10.1787/eco_outlook-v2010-2-de",
+      "title": "OECD Economic Outlook, Volume 2010 Issue 2",
+      "pubDate": "2010-12-07",
+      "concepts": [
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g11692",
+      "doi": "10.1787/growth-2011-en",
+      "title": "Economic Policy Reforms 2011",
+      "pubDate": "2011-04-07",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "policy reform"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g13d0a",
+      "doi": "10.1787/eco_outlook-v2010-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report April 2011",
+      "pubDate": "2011-04-20",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation",
+        "quarterly national accounts"
+      ],
+      "countries": [
+        "Japan"
+      ]
+    },
+    {
+      "id": "g1g11686",
+      "doi": "10.1787/eco_outlook-v2011-1-de",
+      "title": "OECD Economic Outlook, Volume 2011 Issue 1",
+      "pubDate": "2011-05-25",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g1395d",
+      "doi": "10.1787/aeo-2011-en",
+      "title": "African Economic Outlook 2011",
+      "pubDate": "2011-06-06",
+      "concepts": [
+        "foreign direct investment",
+        "human development",
+        "investment portfolio",
+        "regional integration"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g1573b",
+      "doi": "10.1787/eco_outlook-v2011-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2011",
+      "pubDate": "2011-09-12",
+      "concepts": [
+        "economic projections",
+        "forecasting",
+        "projections",
+        "quarterly national accounts",
+        "uncertainty"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g13de2",
+      "doi": "10.1787/empl_outlook-2011-en",
+      "title": "OECD Employment Outlook 2011",
+      "pubDate": "2011-09-15",
+      "concepts": [
+        "employment",
+        "labour market",
+        "unemployment insurance",
+        "wages",
+        "workers"
+      ],
+      "countries": [
+        "Brazil",
+        "Chile",
+        "South Africa",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g14dcf",
+      "doi": "10.1787/leo-2012-en",
+      "title": "Latin American Economic Outlook 2012",
+      "pubDate": "2011-10-28",
+      "concepts": [],
+      "countries": []
+    },
+    {
+      "id": "g1g11688",
+      "doi": "10.1787/eco_outlook-v2011-2-de",
+      "title": "OECD Economic Outlook, Volume 2011 Issue 2",
+      "pubDate": "2011-11-28",
+      "concepts": [],
+      "countries": []
+    },
+    {
+      "id": "g1g17fb5",
+      "doi": "10.1787/9789264166882-en",
+      "title": "Southeast Asian Economic Outlook 2011/12",
+      "pubDate": "2012-01-18",
+      "concepts": [
+        "economic projections",
+        "environmental taxes",
+        "green growth"
+      ],
+      "countries": [
+        "Indonesia",
+        "Malaysia",
+        "Singapore",
+        "Thailand",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g1a4ff",
+      "doi": "10.1787/growth-2012-en",
+      "title": "Economic Policy Reforms 2012",
+      "pubDate": "2012-02-24",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "policy reform",
+        "recommendations"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g1ad0a",
+      "doi": "10.1787/9789264169135-en",
+      "title": "OECD Sovereign Borrowing Outlook 2012",
+      "pubDate": "2012-03-01",
+      "concepts": [
+        "auctions",
+        "borrowing",
+        "debt",
+        "risk"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g1d48a",
+      "doi": "10.1787/eco_outlook-v2011-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report March 2012",
+      "pubDate": "2012-04-03",
+      "concepts": [
+        "economic indicators",
+        "emerging markets",
+        "forecasting",
+        "gross domestic product",
+        "indicators",
+        "uncertainty"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g16885",
+      "doi": "10.1787/eco_outlook-v2012-1-de",
+      "title": "OECD Economic Outlook, Volume 2012 Issue 1",
+      "pubDate": "2012-05-22",
+      "concepts": [
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g1d0bc",
+      "doi": "10.1787/aeo-2012-en",
+      "title": "African Economic Outlook 2012",
+      "pubDate": "2012-05-28",
+      "concepts": [
+        "economic projections",
+        "employment",
+        "youth",
+        "youth employment"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g1dcdb",
+      "doi": "10.1787/empl_outlook-2012-en",
+      "title": "OECD Employment Outlook 2012",
+      "pubDate": "2012-07-10",
+      "concepts": [
+        "employment",
+        "labour market",
+        "labour share",
+        "wages",
+        "workers"
+      ],
+      "countries": [
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g231c4",
+      "doi": "10.1787/eco_outlook-v2012-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2012",
+      "pubDate": "2012-09-06",
+      "concepts": [
+        "economic indicators",
+        "economic projections",
+        "forecasting",
+        "gross domestic product",
+        "uncertainty"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g21c1f",
+      "doi": "10.1787/leo-2013-en",
+      "title": "Latin American Economic Outlook 2013",
+      "pubDate": "2012-11-16",
+      "concepts": [
+        "small and medium-sized enterprises"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g16888",
+      "doi": "10.1787/eco_outlook-v2012-2-de",
+      "title": "OECD Economic Outlook, Volume 2012 Issue 2",
+      "pubDate": "2012-11-27",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g25bf9",
+      "doi": "10.1787/growth-2013-en",
+      "title": "Economic Policy Reforms 2013",
+      "pubDate": "2013-02-15",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "indicators",
+        "policy reform",
+        "recommendations"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g257e1",
+      "doi": "10.1787/sov_b_outlk-2013-en",
+      "title": "OECD Sovereign Borrowing Outlook 2013",
+      "pubDate": "2013-02-27",
+      "concepts": [
+        "auctions",
+        "borrowing",
+        "debt",
+        "debt management"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2487c",
+      "doi": "10.1787/saeo-2013-en",
+      "title": "Southeast Asian Economic Outlook 2013",
+      "pubDate": "2013-03-01",
+      "concepts": [
+        "economic projections",
+        "structural policy"
+      ],
+      "countries": [
+        "Cambodia",
+        "China, People’s Republic",
+        "India",
+        "Lao People's Democratic Republic",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g2f01d",
+      "doi": "10.1787/eco_outlook-v2012-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report March 2013",
+      "pubDate": "2013-04-08",
+      "concepts": [
+        "economic projections",
+        "forecasting",
+        "gross domestic product",
+        "international trade",
+        "monetary policy",
+        "uncertainty"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g2ec78",
+      "doi": "10.1787/aeo-2013-en",
+      "title": "African Economic Outlook 2013",
+      "pubDate": "2013-05-27",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "natural resources",
+        "structural change"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g238a8",
+      "doi": "10.1787/eco_outlook-v2013-1-de",
+      "title": "OECD Economic Outlook, Volume 2013 Issue 1",
+      "pubDate": "2013-05-29",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g2ef9d",
+      "doi": "10.1787/empl_outlook-2013-en",
+      "title": "OECD Employment Outlook 2013",
+      "pubDate": "2013-07-16",
+      "concepts": [
+        "dismissal",
+        "employment",
+        "labour mobility",
+        "workers"
+      ],
+      "countries": [
+        "Australia",
+        "Finland",
+        "Ireland",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g3718b",
+      "doi": "10.1787/eco_outlook-v2013-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2013",
+      "pubDate": "2013-09-11",
+      "concepts": [
+        "emerging markets",
+        "forecasting",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g34026",
+      "doi": "10.1787/leo-2014-en",
+      "title": "Latin American Economic Outlook 2014",
+      "pubDate": "2013-10-18",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "logistics"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g34646",
+      "doi": "10.1787/saeo-2014-en",
+      "title": "Economic Outlook for Southeast Asia, China and India 2014",
+      "pubDate": "2013-11-14",
+      "concepts": [
+        "banks",
+        "economic projections",
+        "structural policy"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "India",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g238a6",
+      "doi": "10.1787/eco_outlook-v2013-2-de",
+      "title": "OECD Economic Outlook, Volume 2013 Issue 2",
+      "pubDate": "2013-11-16",
+      "concepts": [
+        "banks",
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g53c88",
+      "doi": "10.6027/TN2013-585",
+      "title": "Economic Outlook in the Nordic Countries 2014",
+      "pubDate": "2013-12-02",
+      "concepts": [
+        "economic projections",
+        "general government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Finland",
+        "Iceland",
+        "Norway"
+      ]
+    },
+    {
+      "id": "g1g3d53b",
+      "doi": "10.1787/growth-2014-en",
+      "title": "Economic Policy Reforms 2014",
+      "pubDate": "2014-02-21",
+      "concepts": [
+        "economic policy",
+        "indicators",
+        "policy reform",
+        "product market regulation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g400d7",
+      "doi": "10.1787/eco_outlook-v2013-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report March 2014",
+      "pubDate": "2014-03-12",
+      "concepts": [
+        "emerging markets",
+        "forecasting",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g397c8",
+      "doi": "10.1787/sov_b_outlk-2014-en",
+      "title": "OECD Sovereign Borrowing Outlook 2014",
+      "pubDate": "2014-03-28",
+      "concepts": [
+        "Accra Agenda for Action",
+        "borrowing",
+        "debt"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g369e0",
+      "doi": "10.1787/eco_outlook-v2014-1-de",
+      "title": "OECD Economic Outlook, Volume 2014 Issue 1",
+      "pubDate": "2014-05-06",
+      "concepts": [
+        "banks",
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g3fff1",
+      "doi": "10.1787/aeo-2014-en",
+      "title": "African Economic Outlook 2014",
+      "pubDate": "2014-05-19",
+      "concepts": [
+        "global value chains",
+        "value chains"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g441e0",
+      "doi": "10.1787/empl_outlook-2014-de",
+      "title": "OECD Employment Outlook 2014",
+      "pubDate": "2014-09-03",
+      "concepts": [
+        "contracts",
+        "employment",
+        "labour market",
+        "wages"
+      ],
+      "countries": [
+        "Spain",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g49527",
+      "doi": "10.1787/eco_outlook-v2014-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2014",
+      "pubDate": "2014-09-16",
+      "concepts": [
+        "emerging markets",
+        "inflation",
+        "monetary policy"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g46e75",
+      "doi": "10.1787/eco_outlook-v2014-2-de",
+      "title": "OECD Economic Outlook, Volume 2014 Issue 2",
+      "pubDate": "2014-11-25",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "inflation"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g4afba",
+      "doi": "10.1787/leo-2015-en",
+      "title": "Latin American Economic Outlook 2015",
+      "pubDate": "2014-12-09",
+      "concepts": [
+        "economic projections",
+        "education",
+        "gross domestic product",
+        "skills",
+        "students"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g46e7f",
+      "doi": "10.1787/growth-2015-en",
+      "title": "Economic Policy Reforms 2015",
+      "pubDate": "2015-02-09",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "indicators",
+        "policy reform"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g52aca",
+      "doi": "10.1787/eco_outlook-v2014-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report March 2015",
+      "pubDate": "2015-03-19",
+      "concepts": [
+        "gross domestic product",
+        "inflation",
+        "interest rates",
+        "monetary policy",
+        "petroleum prices"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g4c220",
+      "doi": "10.1787/saeo-2015-en",
+      "title": "Economic Outlook for Southeast Asia, China and India 2015",
+      "pubDate": "2015-03-23",
+      "concepts": [
+        "capacity building",
+        "economic projections",
+        "government"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "India"
+      ]
+    },
+    {
+      "id": "g1g52d69",
+      "doi": "10.1787/aeo-2015-en",
+      "title": "African Economic Outlook 2015",
+      "pubDate": "2015-05-25",
+      "concepts": [
+        "economic projections",
+        "human development",
+        "regional development",
+        "structural change"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g46e77",
+      "doi": "10.1787/eco_outlook-v2015-1-de",
+      "title": "OECD Economic Outlook, Volume 2015 Issue 1",
+      "pubDate": "2015-06-03",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "investment"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g52fe4",
+      "doi": "10.1787/9789264234291-en",
+      "title": "OECD Business and Finance Outlook 2015",
+      "pubDate": "2015-06-24",
+      "concepts": [
+        "corporations",
+        "emerging markets",
+        "financial market",
+        "insurance companies",
+        "interest rates",
+        "investment",
+        "pension funds"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g54193",
+      "doi": "10.1787/empl_outlook-2015-en",
+      "title": "OECD Employment Outlook 2015",
+      "pubDate": "2015-07-09",
+      "concepts": [
+        "employment",
+        "labour market",
+        "minimum wage",
+        "wages"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g5c078",
+      "doi": "10.1787/eco_outlook-v2015-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2015",
+      "pubDate": "2015-09-18",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "gross domestic product",
+        "prices"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g46e79",
+      "doi": "10.1787/eco_outlook-v2015-2-de",
+      "title": "OECD Economic Outlook, Volume 2015 Issue 2",
+      "pubDate": "2015-12-02",
+      "concepts": [
+        "climate change",
+        "economic projections",
+        "emerging markets",
+        "gross domestic product"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g5d6b7",
+      "doi": "10.1787/9789264246218-en",
+      "title": "Latin American Economic Outlook 2016",
+      "pubDate": "2015-12-12",
+      "concepts": [
+        "Latin Americans",
+        "economic projections",
+        "exports",
+        "global value chains"
+      ],
+      "countries": [
+        "China, People’s Republic"
+      ]
+    },
+    {
+      "id": "g1g5a4d2",
+      "doi": "10.1787/saeo-2016-en",
+      "title": "Economic Outlook for Southeast Asia, China and India 2016",
+      "pubDate": "2016-01-22",
+      "concepts": [
+        "economic projections",
+        "regional integration",
+        "tourism"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "India",
+        "Lao People's Democratic Republic",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g658c9",
+      "doi": "10.1787/eco_outlook-v2015-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report February 2016",
+      "pubDate": "2016-02-19",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "gross domestic product",
+        "structural reform"
+      ],
+      "countries": [
+        "China, People’s Republic"
+      ]
+    },
+    {
+      "id": "g1g62d3c",
+      "doi": "10.1787/growth-2016-en",
+      "title": "Economic Policy Reforms 2016",
+      "pubDate": "2016-02-26",
+      "concepts": [
+        "gross domestic product",
+        "household",
+        "household income",
+        "income",
+        "policy reform",
+        "structural reform"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g6743f",
+      "doi": "10.1787/aeo-2016-en",
+      "title": "African Economic Outlook 2016",
+      "pubDate": "2016-05-23",
+      "concepts": [
+        "cities",
+        "economic projections",
+        "gross domestic product",
+        "human development",
+        "urbanisation"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g68ec8",
+      "doi": "10.1787/eco_outlook-v2016-1-de",
+      "title": "OECD Economic Outlook, Volume 2016 Issue 1",
+      "pubDate": "2016-06-01",
+      "concepts": [
+        "economic projections",
+        "gross domestic product"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g68621",
+      "doi": "10.1787/9789264257573-en",
+      "title": "OECD Business and Finance Outlook 2016",
+      "pubDate": "2016-06-09",
+      "concepts": [
+        "corporations",
+        "financial market",
+        "shareholders"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g6917e",
+      "doi": "10.1787/empl_outlook-2016-en",
+      "title": "OECD Employment Outlook 2016",
+      "pubDate": "2016-07-07",
+      "concepts": [
+        "employment",
+        "labour market",
+        "skills use"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g6848b",
+      "doi": "10.1787/sov_b_outlk-2016-en",
+      "title": "OECD Sovereign Borrowing Outlook 2016",
+      "pubDate": "2016-08-31",
+      "concepts": [
+        "borrowing",
+        "debt",
+        "debt management",
+        "liquidity"
+      ],
+      "countries": [
+        "New Zealand",
+        "United Kingdom"
+      ]
+    },
+    {
+      "id": "g1g71a1c",
+      "doi": "10.1787/eco_outlook-v2016-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report September 2016",
+      "pubDate": "2016-09-26",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "gross domestic product",
+        "interest rates",
+        "monetary policy",
+        "trade"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g6fe16",
+      "doi": "10.1787/leo-2017-en",
+      "title": "Latin American Economic Outlook 2017",
+      "pubDate": "2016-10-29",
+      "concepts": [
+        "youth"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g73a7a",
+      "doi": "10.1787/eco_outlook-v2016-2-de",
+      "title": "OECD Economic Outlook, Volume 2016 Issue 2",
+      "pubDate": "2016-12-17",
+      "concepts": [
+        "economic projections",
+        "gross domestic product",
+        "interest rates",
+        "public investment"
+      ],
+      "countries": [
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g742ac",
+      "doi": "10.1787/saeo-2017-en",
+      "title": "Economic Outlook for Southeast Asia, China and India 2017",
+      "pubDate": "2017-01-23",
+      "concepts": [
+        "economic projections",
+        "energy",
+        "renewable energy sources"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "India",
+        "Lao People's Democratic Republic",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g75904",
+      "doi": "10.1787/growth-2017-en",
+      "title": "Economic Policy Reforms 2017",
+      "pubDate": "2017-03-17",
+      "concepts": [
+        "economic policy",
+        "gross domestic product",
+        "income inequality",
+        "indicators",
+        "labour market",
+        "policy reform"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g79139",
+      "doi": "10.1787/eco_outlook-v2017-sup2-en",
+      "title": "OECD Economic Outlook, Interim Report March 2017",
+      "pubDate": "2017-04-14",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "interest rates"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g78a81",
+      "doi": "10.1787/aeo-2017-en",
+      "title": "African Economic Outlook 2017",
+      "pubDate": "2017-05-22",
+      "concepts": [
+        "economic projections",
+        "enterprises",
+        "entrepreneurs",
+        "entrepreneurship",
+        "human development",
+        "industrialisation"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g75dab",
+      "doi": "10.1787/sov_b_outlk-2017-en",
+      "title": "OECD Sovereign Borrowing Outlook 2017",
+      "pubDate": "2017-05-26",
+      "concepts": [
+        "auctions",
+        "liquidity"
+      ],
+      "countries": [
+        "Canada",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g79350",
+      "doi": "10.1787/9789264274891-en",
+      "title": "OECD Business and Finance Outlook 2017",
+      "pubDate": "2017-05-30",
+      "concepts": [
+        "cartels",
+        "corporations",
+        "globalisation",
+        "state-owned companies"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g7b0f4",
+      "doi": "10.1787/eco_outlook-v2017-1-de",
+      "title": "OECD Economic Outlook, Volume 2017 Issue 1",
+      "pubDate": "2017-06-07",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "employment",
+        "manufacturing",
+        "trade"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g7934d",
+      "doi": "10.1787/empl_outlook-2017-en",
+      "title": "OECD Employment Outlook 2017",
+      "pubDate": "2017-06-13",
+      "concepts": [
+        "collective bargaining",
+        "employment",
+        "labour market"
+      ],
+      "countries": [
+        "Costa Rica",
+        "Czech Republic",
+        "Germany",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g8362a",
+      "doi": "10.1787/eco_outlook-v2017-sup1-en",
+      "title": "OECD Economic Outlook, Interim Report September 2017",
+      "pubDate": "2017-09-29",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "investment"
+      ],
+      "countries": [
+        "China, People’s Republic"
+      ]
+    },
+    {
+      "id": "g1g876e3",
+      "doi": "10.6027/TN2017-568",
+      "title": "Nordic Economic Outlook 2017",
+      "pubDate": "2017-11-28",
+      "concepts": [
+        "economic projections",
+        "exports",
+        "fiscal policy",
+        "general government",
+        "gross domestic product"
+      ],
+      "countries": [
+        "Iceland",
+        "Norway"
+      ]
+    },
+    {
+      "id": "g1g86712",
+      "doi": "10.1787/eco_outlook-v2017-2-de",
+      "title": "OECD Economic Outlook, Volume 2017 Issue 2",
+      "pubDate": "2017-12-19",
+      "concepts": [
+        "debt",
+        "economic projections",
+        "emerging markets"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g84b2e",
+      "doi": "10.1787/9789264286184-en",
+      "title": "Economic Outlook for Southeast Asia, China and India 2018",
+      "pubDate": "2018-02-12",
+      "concepts": [
+        "digital economy",
+        "economic projections",
+        "foreign direct investment",
+        "information and communications technology"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "India",
+        "Lao People's Democratic Republic",
+        "Viet Nam"
+      ]
+    },
+    {
+      "id": "g1g8b738",
+      "doi": "10.1787/eco_outlook-v2017-sup3-en",
+      "title": "OECD Economic Outlook, Interim Report March 2018",
+      "pubDate": "2018-03-15",
+      "concepts": [
+        "emerging markets",
+        "gross domestic product",
+        "inflation",
+        "monetary policy"
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g8a996",
+      "doi": "10.1787/growth-2018-en",
+      "title": "Economic Policy Reforms 2018",
+      "pubDate": "2018-03-19",
+      "concepts": [
+        "bankruptcy",
+        "indicators"
+      ],
+      "countries": [
+        "Costa Rica",
+        "South Africa",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g890c2",
+      "doi": "10.1787/leo-2018-en",
+      "title": "Latin American Economic Outlook 2018",
+      "pubDate": "2018-04-03",
+      "concepts": [
+        "Latin Americans",
+        "citizens",
+        "contracts",
+        "economic projections",
+        "government",
+        "middle class"
+      ],
+      "countries": []
+    },
+    {
+      "id": "g1g8b14a",
+      "doi": "10.1787/sov_b_outlk-2018-en",
+      "title": "OECD Sovereign Borrowing Outlook 2018",
+      "pubDate": "2018-05-28",
+      "concepts": [
+        "borrowing",
+        "debt",
+        "liquidity"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g8d58b",
+      "doi": "10.1787/eco_outlook-v2018-1-de",
+      "title": "OECD Economic Outlook, Volume 2018 Issue 1",
+      "pubDate": "2018-05-30",
+      "concepts": [
+        "economic projections",
+        "emerging markets",
+        "gross domestic product",
+        "inflation",
+        "international trade",
+        "monetary policy",
+        "trade"
+      ],
+      "countries": [
+        "China, People’s Republic",
+        "Japan",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g8f61d",
+      "doi": "10.1787/empl_outlook-2018-en",
+      "title": "OECD Employment Outlook 2018",
+      "pubDate": "2018-07-04",
+      "concepts": [
+        "collective bargaining",
+        "employment",
+        "wages",
+        "workers"
+      ],
+      "countries": [
+        "Australia",
+        "Sweden",
+        "United States"
+      ]
+    },
+    {
+      "id": "g1g8d271",
+      "doi": "10.1787/9789264298828-en",
+      "title": "OECD Business and Finance Outlook 2018",
+      "pubDate": "2018-09-03",
+      "concepts": [],
+      "countries": []
+    }
+  ]
+}
