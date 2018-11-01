@@ -1,0 +1,501 @@
+[
+  [
+    "workers",
+    "wages",
+    "upper secondary level of education",
+    "students",
+    "skills use",
+    "skills",
+    "savings banks",
+    "risk",
+    "pensions",
+    "outcomes of education",
+    "labour shortage",
+    "labour market",
+    "investment",
+    "intangible assets",
+    "insurance companies",
+    "innovations",
+    "gross domestic product",
+    "government",
+    "feed-in tariffs",
+    "federal government",
+    "enterprises",
+    "employment",
+    "crisis",
+    "corporations",
+    "competition",
+    "children",
+    "banks"
+  ],
+  [
+    {
+      "name": "wages",
+      "concept": "wages",
+      "x": 2002,
+      "y": 1,
+      "z": 2156.1362,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "labour market",
+      "concept": "labour market",
+      "x": 2002,
+      "y": 11,
+      "z": 923.90656,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "federal government",
+      "concept": "federal government",
+      "x": 2002,
+      "y": 19,
+      "z": 3356.8337,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "employment",
+      "concept": "employment",
+      "x": 2002,
+      "y": 21,
+      "z": 2808.9426,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "corporations",
+      "concept": "corporations",
+      "x": 2002,
+      "y": 23,
+      "z": 4380.5303,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "competition",
+      "concept": "competition",
+      "x": 2002,
+      "y": 24,
+      "z": 2415.6057,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "banks",
+      "concept": "banks",
+      "x": 2002,
+      "y": 26,
+      "z": 1364.1885,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "wages",
+      "concept": "wages",
+      "x": 2004,
+      "y": 1,
+      "z": 1400.6167,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "labour market",
+      "concept": "labour market",
+      "x": 2004,
+      "y": 11,
+      "z": 698.355,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "innovations",
+      "concept": "innovations",
+      "x": 2004,
+      "y": 15,
+      "z": 3199.8179,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "federal government",
+      "concept": "federal government",
+      "x": 2004,
+      "y": 19,
+      "z": 459.9049,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "enterprises",
+      "concept": "enterprises",
+      "x": 2004,
+      "y": 20,
+      "z": 5764.6055,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "employment",
+      "concept": "employment",
+      "x": 2004,
+      "y": 21,
+      "z": 2388.92,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "wages",
+      "concept": "wages",
+      "x": 2006,
+      "y": 1,
+      "z": 1988.1727,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "government",
+      "concept": "government",
+      "x": 2006,
+      "y": 17,
+      "z": 2246.5315,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "federal government",
+      "concept": "federal government",
+      "x": 2006,
+      "y": 19,
+      "z": 4300.161,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "enterprises",
+      "concept": "enterprises",
+      "x": 2006,
+      "y": 20,
+      "z": 2174.629,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "employment",
+      "concept": "employment",
+      "x": 2006,
+      "y": 21,
+      "z": 2326.8206,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "competition",
+      "concept": "competition",
+      "x": 2006,
+      "y": 24,
+      "z": 2501.7366,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "students",
+      "concept": "students",
+      "x": 2008,
+      "y": 3,
+      "z": 5996.222,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "outcomes of education",
+      "concept": "outcomes of education",
+      "x": 2008,
+      "y": 9,
+      "z": 2681.3535,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "insurance companies",
+      "concept": "insurance companies",
+      "x": 2008,
+      "y": 14,
+      "z": 9723.44,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "corporations",
+      "concept": "corporations",
+      "x": 2008,
+      "y": 23,
+      "z": 2836.2744,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "competition",
+      "concept": "competition",
+      "x": 2008,
+      "y": 24,
+      "z": 4061.2915,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "children",
+      "concept": "children",
+      "x": 2008,
+      "y": 25,
+      "z": 3742.057,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "savings banks",
+      "concept": "savings banks",
+      "x": 2010,
+      "y": 6,
+      "z": 1316.1029,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "labour market",
+      "concept": "labour market",
+      "x": 2010,
+      "y": 11,
+      "z": 1257.9458,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "gross domestic product",
+      "concept": "gross domestic product",
+      "x": 2010,
+      "y": 16,
+      "z": 2140.9734,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "government",
+      "concept": "government",
+      "x": 2010,
+      "y": 17,
+      "z": 2887.23,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "crisis",
+      "concept": "crisis",
+      "x": 2010,
+      "y": 22,
+      "z": 2263.7197,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "corporations",
+      "concept": "corporations",
+      "x": 2010,
+      "y": 23,
+      "z": 1409.5608,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "banks",
+      "concept": "banks",
+      "x": 2010,
+      "y": 26,
+      "z": 12250.793,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "labour shortage",
+      "concept": "labour shortage",
+      "x": 2012,
+      "y": 10,
+      "z": 2058.9856,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "labour market",
+      "concept": "labour market",
+      "x": 2012,
+      "y": 11,
+      "z": 4776.1426,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "feed-in tariffs",
+      "concept": "feed-in tariffs",
+      "x": 2012,
+      "y": 18,
+      "z": 2370.794,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "wages",
+      "concept": "wages",
+      "x": 2014,
+      "y": 1,
+      "z": 846.3891,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "savings banks",
+      "concept": "savings banks",
+      "x": 2014,
+      "y": 6,
+      "z": 4469.5786,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "risk",
+      "concept": "risk",
+      "x": 2014,
+      "y": 7,
+      "z": 2822.906,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "employment",
+      "concept": "employment",
+      "x": 2014,
+      "y": 21,
+      "z": 1067.0891,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "banks",
+      "concept": "banks",
+      "x": 2014,
+      "y": 26,
+      "z": 12347.109,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "pensions",
+      "concept": "pensions",
+      "x": 2016,
+      "y": 8,
+      "z": 3061.974,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "investment",
+      "concept": "investment",
+      "x": 2016,
+      "y": 12,
+      "z": 7401.8657,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "intangible assets",
+      "concept": "intangible assets",
+      "x": 2016,
+      "y": 13,
+      "z": 3976.5457,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "gross domestic product",
+      "concept": "gross domestic product",
+      "x": 2016,
+      "y": 16,
+      "z": 843.3794,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "federal government",
+      "concept": "federal government",
+      "x": 2016,
+      "y": 19,
+      "z": 572.28357,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "workers",
+      "concept": "workers",
+      "x": 2018,
+      "y": 0,
+      "z": 2796.006,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "wages",
+      "concept": "wages",
+      "x": 2018,
+      "y": 1,
+      "z": 1982.2227,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    },
+    {
+      "name": "upper secondary level of education",
+      "concept": "upper secondary level of education",
+      "x": 2018,
+      "y": 2,
+      "z": 2368.312,
+      "color": "#d40000",
+      "fillColor": "#d40000"
+    },
+    {
+      "name": "skills use",
+      "concept": "skills use",
+      "x": 2018,
+      "y": 4,
+      "z": 3061.9778,
+      "color": "#FFBA00",
+      "fillColor": "#FFBA00"
+    },
+    {
+      "name": "skills",
+      "concept": "skills",
+      "x": 2018,
+      "y": 5,
+      "z": 7381.4414,
+      "color": "#000000",
+      "fillColor": "#000000"
+    },
+    {
+      "name": "intangible assets",
+      "concept": "intangible assets",
+      "x": 2018,
+      "y": 13,
+      "z": 478.99728,
+      "color": "#FFAA1D",
+      "fillColor": "#FFAA1D"
+    },
+    {
+      "name": "employment",
+      "concept": "employment",
+      "x": 2018,
+      "y": 21,
+      "z": 3237.3982,
+      "color": "#1b1b1b",
+      "fillColor": "#1b1b1b"
+    }
+  ]
+]

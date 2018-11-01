@@ -1,0 +1,220 @@
+{
+  "overallConcepts": [
+    {
+      "[object Object]": 9
+    }
+  ],
+  "overallCountries": [
+    {
+      "undefined": 9
+    }
+  ],
+  "timeSeries": [
+    {
+      "id": "g1gh2fed",
+      "doi": "10.1787/eco_surveys-deu-2002-de",
+      "title": "OECD Economic Surveys: Germany 2002",
+      "pubDate": "2002-12-17",
+      "concepts": {
+        "economic surveys": 5303.4683,
+        "corporations": 4380.5303,
+        "federal government": 3356.8337,
+        "employment": 2808.9426,
+        "competition": 2415.6057,
+        "wages": 2156.1362,
+        "financial market": 1642.8225,
+        "banks": 1364.1885,
+        "general government": 1183.6683,
+        "social services": 972.7573,
+        "public sector": 963.58344,
+        "labour market": 923.90656,
+        "structural reform": 801.2764,
+        "unemployment insurance": 489.56552,
+        "labour market reform": 268.51566
+      }
+    },
+    {
+      "id": "g1gh3fdc",
+      "doi": "10.1787/eco_surveys-deu-2004-de",
+      "title": "OECD Economic Surveys: Germany 2004",
+      "pubDate": "2004-08-05",
+      "concepts": {
+        "enterprises": 5764.6055,
+        "economic surveys": 5549.9355,
+        "innovations": 3199.8179,
+        "employment": 2388.92,
+        "wages": 1400.6167,
+        "information and communications technology": 1262.3931,
+        "public sector": 1060.6191,
+        "labour market": 698.355,
+        "unemployment insurance": 669.0341,
+        "civil servants": 531.0395,
+        "health services": 488.0329,
+        "federal government": 459.9049,
+        "labour supply": 443.93723,
+        "income tax": 422.2639,
+        "sector reform": 345.3913
+      }
+    },
+    {
+      "id": "g1gh6798",
+      "doi": "10.1787/eco_surveys-deu-2006-de",
+      "title": "OECD Economic Surveys: Germany 2006",
+      "pubDate": "2006-07-17",
+      "concepts": {
+        "economic surveys": 10773.012,
+        "federal government": 4300.161,
+        "competition": 2501.7366,
+        "employment": 2326.8206,
+        "government": 2246.5315,
+        "enterprises": 2174.629,
+        "wages": 1988.1727,
+        "local government": 927.6421,
+        "public sector": 911.64496,
+        "unemployment insurance": 817.9883,
+        "product markets": 811.8596,
+        "labour market reform": 723.2847,
+        "cartels": 550.2104,
+        "pre-primary level of education": 240.79236
+      }
+    },
+    {
+      "id": "g1gh8906",
+      "doi": "10.1787/eco_surveys-deu-2008-de",
+      "title": "OECD Economic Surveys: Germany 2008",
+      "pubDate": "2008-04-09",
+      "concepts": {
+        "economic surveys": 14541.957,
+        "insurance companies": 9723.44,
+        "students": 5996.222,
+        "competition": 4061.2915,
+        "children": 3742.057,
+        "corporations": 2836.2744,
+        "outcomes of education": 2681.3535,
+        "corporate income tax": 1455.9768,
+        "hours of work": 1160.2335,
+        "unemployment insurance": 1048.0253,
+        "health insurance": 869.9212,
+        "social security contributions": 717.2327,
+        "railway transport": 609.7646,
+        "private health insurance": 515.0344,
+        "early childhood education and care": 446.25287
+      }
+    },
+    {
+      "id": "g1ghbd50",
+      "doi": "10.1787/eco_surveys-deu-2010-de",
+      "title": "OECD Economic Surveys: Germany 2010",
+      "pubDate": "2010-03-25",
+      "concepts": {
+        "banks": 12250.793,
+        "economic surveys": 7813.5586,
+        "government": 2887.23,
+        "crisis": 2263.7197,
+        "gross domestic product": 2140.9734,
+        "exports": 1594.2194,
+        "growth potential": 1487.4657,
+        "corporations": 1409.5608,
+        "savings banks": 1316.1029,
+        "labour market": 1257.9458,
+        "banking systems": 1150.5875,
+        "structural reform": 855.6125,
+        "structural change": 617.04974,
+        "budgetary impulse": 425.364,
+        "savings ratio": 378.3151
+      }
+    },
+    {
+      "id": "g1g156dc",
+      "doi": "10.1787/eco_surveys-deu-2012-de",
+      "title": "OECD Economic Surveys: Germany 2012",
+      "pubDate": "2012-02-14",
+      "concepts": {
+        "economic surveys": 5163.031,
+        "labour market": 4776.1426,
+        "feed-in tariffs": 2370.794,
+        "labour shortage": 2058.9856,
+        "older workers": 1976.6815,
+        "greenhouse gas emissions": 1422.9279,
+        "energy": 1372.415,
+        "climate change": 1232.7416,
+        "electricity": 1055.6376,
+        "European Union Emissions Trading System": 917.9472,
+        "policy reform": 787.1348,
+        "climate change mitigation": 781.15546,
+        "unemployment rate": 642.26276,
+        "renewable energy sources": 515.6599,
+        "migration policy": 294.00555
+      }
+    },
+    {
+      "id": "g1g394df",
+      "doi": "10.1787/eco_surveys-deu-2014-de",
+      "title": "OECD Economic Surveys: Germany 2014",
+      "pubDate": "2014-05-13",
+      "concepts": {
+        "banks": 12347.109,
+        "economic surveys": 4889.6885,
+        "savings banks": 4469.5786,
+        "risk": 2822.906,
+        "minimum wage": 1172.5453,
+        "employment": 1067.0891,
+        "poverty": 1027.599,
+        "wages": 846.3891,
+        "income inequality": 632.7172,
+        "economic growth": 594.5237,
+        "financial services": 474.66385,
+        "health insurance": 186.06961,
+        "capital requirements": 158.6411,
+        "private health insurance": 148.2042,
+        "labour market reform": 114.11168
+      }
+    },
+    {
+      "id": "g1g66cc4",
+      "doi": "10.1787/eco_surveys-deu-2016-de",
+      "title": "OECD Economic Surveys: Germany 2016",
+      "pubDate": "2016-04-05",
+      "concepts": {
+        "economic surveys": 7621.645,
+        "investment": 7401.8657,
+        "intangible assets": 3976.5457,
+        "pensions": 3061.974,
+        "population ageing": 1943.6244,
+        "local government": 1099.5763,
+        "asylum": 965.00885,
+        "well-being": 902.1028,
+        "gross domestic product": 843.3794,
+        "federal government": 572.28357,
+        "life expectancy": 569.5632,
+        "refugees": 437.78494,
+        "disability benefits": 393.9769,
+        "occupational pension plans": 157.4754,
+        "pre-primary level of education": 139.50043
+      }
+    },
+    {
+      "id": "g1g8e512",
+      "doi": "10.1787/eco_surveys-deu-2018-de",
+      "title": "OECD Economic Surveys: Germany 2018",
+      "pubDate": "2018-06-12",
+      "concepts": {
+        "economic surveys": 9995.772,
+        "skills": 7381.4414,
+        "employment": 3237.3982,
+        "skills use": 3061.9778,
+        "workers": 2796.006,
+        "upper secondary level of education": 2368.312,
+        "wages": 1982.2227,
+        "women": 1651.2294,
+        "vocational education": 1216.6979,
+        "intangible assets": 478.99728,
+        "vocational education and training": 444.49945,
+        "cognitive skills": 439.75082,
+        "adult education": 341.53564,
+        "early childhood education and care": 236.62704,
+        "pre-primary level of education": 158.62863
+      }
+    }
+  ]
+}
